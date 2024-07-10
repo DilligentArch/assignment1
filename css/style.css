@@ -598,3 +598,6 @@ input[type="submit"] {
     align-items: center;
     gap: 20px;
 }
+.last-P span{
+    color: purple;
+}
