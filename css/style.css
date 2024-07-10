@@ -39,7 +39,7 @@ body {
 
 .dev-container {
     /* border: 2px solid black; */
-    max-width: 1410px;
+    width: 1410px;
     height: 500px;
     margin-top: 50px;
     background-image: url(../assets/Hero-bg.png);
@@ -91,7 +91,7 @@ body {
 
 .dev-elements img {
     margin-top: 26px;
-    max-width: 190.28px;
+    width: 190.28px;
     height: 240px;
     /* border: 2px solid red; */
     margin-bottom: 30px;
@@ -111,7 +111,7 @@ body {
 
 .main1-container {
     /* border: 2px solid red; */
-    max-width: 800px;
+    width: 800px;
     height: 113px;
     margin: 0 auto;
     display: flex;
@@ -142,7 +142,7 @@ body {
 
 .main2-container {
     /* border: 2px solid green; */
-    max-width: 946px;
+    width: 946px;
     height: 336px;
     margin: 48px auto;
     display: flex;
@@ -168,14 +168,14 @@ body {
 }
 
 .Layer_1 {
-    max-width: 259.56px;
+    width: 259.56px;
     height: 217.01px;
     padding-left: 80px;
 
 }
 
 .left1 h2 {
-    max-width: 400px;
+    width: 400px;
     height: 72px;
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
@@ -189,7 +189,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     opacity: 0.7;
-    max-width: 468px;
+    width: 468px;
     height: 52px;
     margin-bottom: 30px;
 }
@@ -217,7 +217,7 @@ body {
 
 .main3-container {
     /* border: 2px solid green; */
-    max-width: 946px;
+    width: 946px;
     height: 336px;
     margin: 48px auto;
     display: flex;
@@ -243,7 +243,7 @@ body {
 }
 
 .Group3 {
-    max-width: 259.56px;
+    width: 259.56px;
     height: 250.01px;
     padding-right: 90px;
     /* padding-bottom: 100px; */
@@ -253,7 +253,7 @@ body {
 }
 
 .right2 h2 {
-    max-width: 420px;
+    width: 420px;
     height: 72px;
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
@@ -267,7 +267,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     opacity: 0.7;
-    max-width: 468px;
+    width: 468px;
     height: 52px;
     margin-bottom: 30px;
 }
@@ -276,7 +276,7 @@ body {
 
 .main4-container {
     /* border: 2px solid green; */
-    max-width: 946px;
+    width: 946px;
     height: 336px;
     margin: 48px auto;
     display: flex;
@@ -302,14 +302,14 @@ body {
 }
 
 .Group4 {
-    max-width: 280.56px;
+    width: 280.56px;
     height: 280.01px;
     padding-left: 80px;
 
 }
 
 .left3 h2 {
-    max-width: 400px;
+    width: 400px;
     height: 72px;
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
@@ -323,7 +323,7 @@ body {
     font-size: 16px;
     font-weight: 400;
     opacity: 0.7;
-    max-width: 468px;
+    width: 468px;
     height: 52px;
     margin-bottom: 30px;
 }
@@ -341,7 +341,7 @@ body {
 }
 
 .main2_content {
-    max-width: 852px;
+    width: 852px;
     height: 113px;
     /* border: 2px solid yellow; */
     margin: 0 auto;
@@ -393,7 +393,7 @@ body {
 }
 
 .main3 {
-    max-width: 900px;
+    width: 900px;
     height: 460px;
     margin: 150px auto;
     /* border: 2px solid purple; */
@@ -402,7 +402,7 @@ body {
 .main3-head {
     /* border: 2px solid yellow; */
     text-align: center;
-    max-width: 60%;
+    width: 60%;
     height: 20%;
     margin: 0 auto;
     margin-bottom: 40px;
@@ -442,7 +442,7 @@ body {
     /* border: 2px solid red; */
     border-radius: 16px;
     background: rgba(255, 76, 30, 0.05);
-    max-width: 364px;
+    width: 364px;
     height: 250px;
     /* margin-left: 0; */
     /* padding-left: 0; */
@@ -451,14 +451,14 @@ body {
 .second-main {
     border-radius: 16px;
     background: rgba(0, 76, 232, 0.05);
-    max-width: 364px;
+    width: 364px;
     height: 250px;
 }
 
 .third-main {
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
-    max-width: 364px;
+    width: 364px;
     height: 250px;
 }
 
