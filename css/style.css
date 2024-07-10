@@ -406,7 +406,7 @@ body {
     width: 60%;
     height: 20%;
     margin: 0 auto;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
 }
 
 .main3_container {
@@ -437,6 +437,7 @@ body {
     /* margin-bottom: 30px; */
     font-size: 16px;
     font-weight: 400;
+    margin-bottom: 70px;
 }
 
 .first-main {
